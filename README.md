@@ -52,4 +52,4 @@ You may not reproduce, duplicate, copy, sell, resell, or exploit any portion of 
 
 Copyright © 2012 - 2024 Educare. All Rights Reserved.
 
-**I accept the terms and conditions**
+
