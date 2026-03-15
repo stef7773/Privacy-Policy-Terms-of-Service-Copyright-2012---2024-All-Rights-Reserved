@@ -184,7 +184,7 @@ You may disable ad personalization via:
 
 # 📌 COPYRIGHT INFORMATION
 
-**Copyright © 2012–2025 Educare AI  
+**Copyright © 2012–2026 Educare AI  
 All Rights Reserved.**
 
 Educare AI is a protected brand.  
